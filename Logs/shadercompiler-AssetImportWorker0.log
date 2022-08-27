@@ -1,4 +1,4 @@
-Base path: 'C:/Program Files/Unity/2021.2.15f1/Editor/Data', plugins path 'C:/Program Files/Unity/2021.2.15f1/Editor/Data/PlaybackEngines'
+Base path: '/Users/daiki/Downloads/siv3d_v0.4.3_macOS/2021.2.15f1/Unity.app/Contents', plugins path '/Users/daiki/Downloads/siv3d_v0.4.3_macOS/2021.2.15f1/Unity.app/Contents/PlaybackEngines'
 Cmd: initializeCompiler
 
 Unhandled exception: Protocol error - failed to read magic number (error -2147483644, transferred 0/4)
